@@ -1,0 +1,13 @@
+.nav ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.nav ul li {
+  display: inline;
+  margin-right: 5%;
+}
+
+.icon {
+  height: 100px;
+}
